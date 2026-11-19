@@ -1,0 +1,24 @@
+{
+  "high_score": 41072,
+  "coins": 7180,
+  "unlocks": [
+    "Bullet",
+    "Fireball"
+  ],
+  "upgrades": {
+    "hp": 11,
+    "speed": 5,
+    "damage": 11,
+    "fire_rate": 3,
+    "magnet": 13
+  },
+  "has_run": false,
+  "game_level": 1,
+  "player_level": 1,
+  "xp": 0,
+  "score": 0,
+  "master_volume": 0.9,
+  "music_volume": 0.5,
+  "sfx_volume": 0.8,
+  "show_fps": true
+}
